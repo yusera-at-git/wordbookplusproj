@@ -58,3 +58,4 @@ gradle.properties
 
 # CocoaPods
 /ios/Pods/
+gradle.properties
